@@ -45,6 +45,7 @@ function App() {
     <Route exact path= "/" component = {Home}   />
     <Route exact path= "/rooms/" component = {Rooms}   /> 
     <Route exact path= "/roooms/:slug" component = {SingleRoom}   />
+
     <Route exact path= "/events/" component = {Events}   /> 
     <Route exact path= "/events/:slug" component = {SingleEvent}   />
     <Route component={Error}/>
@@ -53,11 +54,12 @@ function App() {
 
 
 
-      
+      <>Hello from app :)</>
       <Home></Home>
       <Rooms></Rooms>
       <SingleRoom></SingleRoom>
       <Error></Error>
+      <>Bye )</>
     </>  
   );
 

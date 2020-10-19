@@ -1,8 +1,9 @@
 import React from 'react'
+import Hero from '../components/Hero';
 
 //arrow function  rafc
 //this is just a function
 
 export default function Home(){
-    return <div> Hello from Home page </div>;   
+    return <Hero hero="defaultHero" />;   
 }
