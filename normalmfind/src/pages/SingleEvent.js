@@ -44,11 +44,11 @@ Component {
         if(!event){
 
             return <div className="error">
-                <h3>no such event could be found </h3>
+                <h3>no such place could be found </h3>
 
 
                 <Link to='/events' className="btn-primary">
-                back to events 
+                back to places 
             </Link>
             </div>
 
@@ -69,7 +69,7 @@ Component {
 
             <Banner title={`${name} event`}>
  
-                <Link to='/events' className='btn-primary '> Back to events :) </Link>
+                <Link to='/events' className='btn-primary '> Back to places :) </Link>
             </Banner>
         </StyledHero>
 

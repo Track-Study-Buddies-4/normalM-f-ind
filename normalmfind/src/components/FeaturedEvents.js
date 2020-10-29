@@ -24,7 +24,7 @@ export default class FeaturedEvents extends Component{
 
         return <section className="featured-rooms">
 
-            <Title title="featured events"/>
+            <Title title="featured places"/>
 
             <div className="featured-rooms-center">
 

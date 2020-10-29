@@ -21,9 +21,9 @@ export default function Home(){
         <>
     
         <Hero>
-            <Banner title = "Great Events " subtitle="nearest happening now">
+            <Banner title = "Great Places " subtitle="nearest happening now">
                 <Link to='/events' className="btn-primary">
-                    The eventss
+                    The events
                 </Link>    
             </Banner>
         </Hero>

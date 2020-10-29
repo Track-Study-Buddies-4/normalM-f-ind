@@ -39,7 +39,7 @@ export default class Navbar extends Component{
                      </li>
 
                      <li>
-                         <Link to="/events"> Events</Link>
+                         <Link to="/events"> Places</Link>
                      </li>
 
 
