@@ -1,5 +1,9 @@
 import React, {Component} from 'react'
-import logo  from '../images/logo2.svg'
+
+
+//change 0 logo image 
+//import logo  from '../images/logo2.svg'
+import logo  from '../images/logo3.png'
 
 import {FaAlignRight} from 'react-icons/fa'
 
@@ -18,7 +22,7 @@ export default class Navbar extends Component{
 
     render (){
         return (
-            <nav classname='navbar'>
+            <nav className='navbar'>
                 <div className="nav-center">    
                 <div className="nav-header">
                     <Link to="/">
@@ -38,9 +42,7 @@ export default class Navbar extends Component{
                          <Link to="/events"> Events</Link>
                      </li>
 
-                     <li>
-                         <Link to="/rooms"> Rooms</Link>
-                     </li>
+
                   
                  </ul>
                 </div>

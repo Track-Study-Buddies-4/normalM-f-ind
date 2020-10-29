@@ -3,12 +3,13 @@ import React from 'react';
 import './App.css';
 
 import Home from './pages/Home';
-import Rooms from './pages/Rooms';
-import SingleRoom from './pages/SingleRoom';
-import Error from './pages/Error';
 
-import Events from './Events';
-import SingleEvent from './SingleEvent';
+
+
+import Events from './pages/Events';
+import SingleEvent from './pages/SingleEvent';
+
+import Error from './pages/Error';
 
 
 import {Route, Switch} from 'react-router-dom';
@@ -43,9 +44,6 @@ function App() {
     <Navbar/>
     <Switch>
     <Route exact path= "/" component = {Home}   />
-    <Route exact path= "/rooms/" component = {Rooms}   /> 
-    <Route exact path= "/roooms/:slug" component = {SingleRoom}   />
-
     <Route exact path= "/events/" component = {Events}   /> 
     <Route exact path= "/events/:slug" component = {SingleEvent}   />
     <Route component={Error}/>
@@ -54,12 +52,7 @@ function App() {
 
 
 
-      <>Hello from app :)</>
-      <Home></Home>
-      <Rooms></Rooms>
-      <SingleRoom></SingleRoom>
-      <Error></Error>
-      <>Bye )</>
+
     </>  
   );
 

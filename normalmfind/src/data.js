@@ -421,7 +421,7 @@ export default [
     },
     fields: {
       name: "double deluxe",
-      slug: "double-deluxe",
+      slug: "first-business",
       type: "double",
       price: 400,
       size: 500,
@@ -649,7 +649,7 @@ export default [
     },
     fields: {
       name: "family deluxe",
-      slug: "family-deluxe",
+      slug: "two-business",
       type: "family",
       price: 500,
       size: 700,
@@ -706,7 +706,7 @@ export default [
     },
     fields: {
       name: "presidential",
-      slug: "presidential-room",
+      slug: "three-business",
       type: "presidential",
       price: 600,
       size: 1000,

@@ -7,11 +7,19 @@ import {BrowserRouter as Router } from 'react-router-dom';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
+import {EventProvider} from './context'
+
 ReactDOM.render(
 
-  <Router>
+  <EventProvider>
+      <Router>
     <App />
-  </Router>,
+  </Router>
+
+    
+  </EventProvider>,
+
+
 
 /** 
   <React.StrictMode>
