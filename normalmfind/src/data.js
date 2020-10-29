@@ -420,10 +420,10 @@ export default [
       id: "8"
     },
     fields: {
-      name: "double deluxe",
-      slug: "first-business",
+      name: "Ani Gardener Shop",
+      slug: "Gardening-business",
       type: "double",
-      price: 400,
+      price: 15,
       size: 500,
       capacity: 2,
       pets: true,
@@ -648,10 +648,10 @@ export default [
       id: "12"
     },
     fields: {
-      name: "family deluxe",
-      slug: "two-business",
+      name: "Alex Shoemaker",
+      slug: "Shoemaker-business",
       type: "family",
-      price: 500,
+      price: 30,
       size: 700,
       capacity: 6,
       pets: true,
@@ -705,10 +705,10 @@ export default [
       id: "13"
     },
     fields: {
-      name: "presidential",
-      slug: "three-business",
+      name: "Latin Truckfood",
+      slug: "truckfood-business",
       type: "presidential",
-      price: 600,
+      price: 20,
       size: 1000,
       capacity: 10,
       pets: true,
