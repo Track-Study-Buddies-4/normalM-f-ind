@@ -15,3 +15,9 @@ npm install react-icons
 npm install react-router-dom --save
 
 #open editor
+
+npm install --save styled-components
+
+
+
+
