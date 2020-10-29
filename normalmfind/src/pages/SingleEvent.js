@@ -54,7 +54,7 @@ Component {
 
         }
 
-        const {name, description, capaciy, size, price, extras, breakfast, pets, images} = event
+        const {name, description, capacity, size, price, extras, breakfast, pets, images} = event
 
         const[mainImg, ...defaultImg] = images;
 
@@ -84,6 +84,35 @@ Component {
     })}
             
             </div>
+
+            <div className="single-room-info">
+                <article className="desc">
+                    <h3>Details</h3>
+                    <p>{description}</p>
+
+                </article>
+
+                <article className="info">
+
+                    <h3>Info A</h3>
+                    <h6>Experience: ${price}</h6>
+{/*                     <h6>Size: {size} SQFT</h6>
+                    <h6>Max Capacity:  {""}
+                        { capacity > 1 ? `${capacity} people `: `${capacity} person`}
+                    </h6> */}
+                    <h6>{pets ? " pets allowed ": "no pets allow " }</h6>    
+
+                </article>
+
+            </div>
+
+
+
+
+
+
+
+
         </section>
 
         </>
