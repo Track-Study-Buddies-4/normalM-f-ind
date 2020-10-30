@@ -30,7 +30,7 @@ export default class EventProvider extends  Component {
             events, 
             featuredEvents, 
             sortedEvents:events, 
-            loading:false
+            loading:false 
         })
 
     }
@@ -78,5 +78,16 @@ export default class EventProvider extends  Component {
 }
 
 const EventConsumer = EventContext.Consumer;
+
+export function withEventConsumer(Component) {
+
+    return function ConsumerWrapper(props){
+
+        return <EventConsumer>
+            {value=> <Component {...props} context= {value}  >    </Component>}
+        </EventConsumer>
+    }
+
+}
 
 export {EventProvider, EventConsumer, EventContext}
