@@ -11,20 +11,20 @@ export default class Services extends Component {
             {
                 icon: <FaStore/>,
                 title: "Stores",
-                info: 'Lorem ipsum'
+                info: 'Local business for people to the people'
 
             },
 
             {
                 icon: <FaMap/>,
                 title: "Locate",
-                info: 'Lorem ipsum'
+                info: 'Discover the best places to support in this new normal'
 
             },
             {
                 icon: <FaRegComments/>,
                 title: "Comment about this",
-                info: 'Lorem ipsum'
+                info: 'Share your opinions and toughts with the world'
 
             },
         ]

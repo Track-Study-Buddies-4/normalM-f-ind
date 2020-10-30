@@ -430,7 +430,7 @@ export default [
       breakfast: true,
       featured: true,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+        "You can get it all-from organic potting soil to cherry blossom trees-and it can all be delivered at no charge the next day. It's certainly the easy way to go, but is it the best way to create a healthy garden? Big box stores with garden centers offer a huge inventory, but if you're wondering which mulch to buy or when you should plant tulips, you're pretty much on your own-staff members are scarce, and those that are there very rarely have much knowledge on the subject. There's no one to help you online either. At a local garden center, however, every salesperson more than likely has a ton of gardening knowledge pertinent to your area, and they're happy to talk mulch and planting timelines with you.",
       extras: [
         "Plush pillows and breathable bed linens",
         "Soft, oversized bath towels",
@@ -658,7 +658,7 @@ export default [
       breakfast: true,
       featured: true,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+        "It’s labor-intensive from start to finish, but, Alex says, there are several reasons clients might want a pair of bespoke shoes, including quality, a custom fit, and choices in styles and colors. “Handmade shoemaking may be seeing a resurgence,” she says. Waiting lists at classes she wants to take make her hopeful that it is not a dying art.",
       extras: [
         "Plush pillows and breathable bed linens",
         "Soft, oversized bath towels",
@@ -715,7 +715,7 @@ export default [
       breakfast: true,
       featured: true,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+        "Food trucks get to sell and market directly to the consumers. They can find and go to their target market literally on the streets as well as on social media, rather than waiting for consumers to come to them. These mobile restaurants have great built-in branding, often with menu items and fun branding painted right on the truck to help market and advertise on-the-go. Because of their traveling nature, food trucks have to be very socially savvy, using geolocation, targeting, and tags to show where they are to digital",
       extras: [
         "Plush pillows and breathable bed linens",
         "Soft, oversized bath towels",
