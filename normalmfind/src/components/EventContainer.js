@@ -18,7 +18,7 @@ function EventContainer({context}){
 
             return (
             <>
-                Hello from rooms container 
+                
                 <EventsFilter events={events} />
                 <EventsList events ={sortedEvents} />
             </>
