@@ -3,7 +3,7 @@ import React, {Component} from 'react'
 
 //change 0 logo image 
 //import logo  from '../images/logo2.svg'
-import logo  from '../images/logo3.png'
+import logo  from '../images/logo.svg'
 
 import {FaAlignRight} from 'react-icons/fa'
 
